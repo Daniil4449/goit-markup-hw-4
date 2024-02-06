@@ -292,6 +292,7 @@ img {
 }
 
 .our-team-text {
+  margin-bottom: 8px;
   color: #434455;
   text-align: center;
   font-size: 16px;
@@ -427,9 +428,7 @@ img {
   align-items: baseline;
 }
 .logo-text {
-  margin-right: 120px;
   width: 264px;
-  height: 112px;
 }
 .container-footer-logo {
   min-width: 1440px;
