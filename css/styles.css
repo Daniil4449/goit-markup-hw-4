@@ -428,6 +428,7 @@ img {
   align-items: baseline;
 }
 .logo-text {
+  margin-right: 120px;
   width: 264px;
 }
 .container-footer-logo {
@@ -459,7 +460,6 @@ img {
 }
 
 .container-footer-media {
-  margin-left: 120px;
 }
 .footer-subtitle-socials {
   color: #ffffff;
